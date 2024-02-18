@@ -1,0 +1,26 @@
+body {
+    background-color: #1e8bba;
+    font-family: Arial, sans-serif;
+    margin: 25px;
+    padding: 30px;
+    color: rgb(255, 255, 255);
+}
+
+div {
+    border-radius: 25px;
+    padding: 10px;
+    margin: 5px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;    
+}
+
+.ej1, .ej2, .ej3 {
+    background-color: #fafafa;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    color: black;
+    width: 100%;
+    height: 100px;   
+}
